@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**islemaiouni/islemaiouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm islam aiouni</h1>
 <h3 align="center">cs student</h3>
 
