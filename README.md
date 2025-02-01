@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm islam aiouni</h1>
-<h3 align="center">cs student</h3>
+<h3 align="center">AI student</h3>
 
 - 📫 How to reach me **islamaiouni@gmail.com**
 
